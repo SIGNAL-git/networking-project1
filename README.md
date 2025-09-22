@@ -9,9 +9,9 @@ Project I did for my Networking class in college. Simple file transfer between a
 1. Start up your command terminal
 2. Navigate to the bin folder
 3. Set up the server, cache, and client connections in that order using these commands:
-4. To set up the server, type: java server.java <server port> <tcp/udp>
-5. To set up the cache, type: java cache.java <cache port> <server ip> <server port> <tcp/udp>
-6. To set up the client, type: java client.java <server ip> <server port> <cache ip> <cache port> <tcp/udp>
+4. To set up the server, type: java server.java \<server port> <tcp/udp>
+5. To set up the cache, type: java cache.java \<cache port> \<server ip> \<server port> <tcp/udp>
+6. To set up the client, type: java client.java \<server ip> \<server port> \<cache ip> \<cache port> <tcp/udp>
 
 
 
